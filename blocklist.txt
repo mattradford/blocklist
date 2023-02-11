@@ -21,3 +21,5 @@
 # Just ugh
 ||dailymail.co.uk^
 ||express.co.uk^
+# More tracking
+||sb.scorecardresearch.com^
