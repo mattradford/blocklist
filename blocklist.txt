@@ -15,6 +15,7 @@
 ||checkip.synology.com^
 # Meross
 ||mqtt-eu.meross.com^
+||mqtt-eu-2.meross.com^
 # Ubiquiti
 ||crash-report-service.svc.ui.com
 # Just ugh
