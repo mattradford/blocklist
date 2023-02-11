@@ -17,7 +17,7 @@
 ||mqtt-eu.meross.com^
 ||mqtt-eu-2.meross.com^
 # Ubiquiti
-||crash-report-service.svc.ui.com
+||svc.ui.com^
 # Just ugh
 ||dailymail.co.uk^
 ||express.co.uk^
