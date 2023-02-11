@@ -1,0 +1,22 @@
+# LG
+||lgad.cjpowercast.com.edgesuite.net^
+||yumenetworks.com^
+||smartclip.net^
+||smartclip.com^
+||lgsmartad.com^
+||lgtvsdp.com^
+||lgappstv.com^
+||lgtvcommon.com^
+||lge.com^
+# Sonos
+||msmetrics.ws.sonos.com^
+||click.email.sonos.com^
+# Synology
+||checkip.synology.com^
+# Meross
+||mqtt-eu.meross.com^
+# Ubiquiti
+||crash-report-service.svc.ui.com
+# Just ugh
+||dailymail.co.uk^
+||express.co.uk^
