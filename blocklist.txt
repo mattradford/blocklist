@@ -23,3 +23,6 @@
 ||express.co.uk^
 # More tracking
 ||sb.scorecardresearch.com^
+# Outbrain
+||outbrain.com^
+||outbrainimg.com^
