@@ -12,7 +12,7 @@
 ||msmetrics.ws.sonos.com^
 ||click.email.sonos.com^
 # Synology
-||checkip.synology.com^
+#||checkip.synology.com^
 # Meross
 ||mqtt-eu.meross.com^
 ||mqtt-eu-2.meross.com^
